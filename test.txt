@@ -1,2 +1,5 @@
 ...this is a test file.`:wq
 
+i am using now git.
+my name is bigan kumar.
+name
